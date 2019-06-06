@@ -1,0 +1,21 @@
+body{
+	background: url(https://imgur.com/uTF6kth.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.navbar-default{
+	background-color: #404243;
+	border-color: #404243;
+}
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+.navbar-default .navbar-brand {
+    color: white
+}
+.jumbotron{
+	background: none;
+	color: white;
+	text-align: left;
+	margin-left: 5%;
+	font-family: Raleway;
